@@ -39,7 +39,7 @@ For tech enthusiasts, Universal A.T.O. is built on a modern stack designed for p
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ATOStudios/Universal-A.T.O..git](https://github.com/ATOStudios/Universal-A.T.O..git)
+    git clone [https://github.com/ATOStudios/Universal-A.T.O.git](https://github.com/ATOStudios/Universal-A.T.O.git)
     ```
 2.  **Open the project:**
     Simply open the `index.html` file in any modern web browser (Chrome, Edge, Firefox). No server installation required for basic functionality.
